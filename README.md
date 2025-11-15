@@ -2,12 +2,12 @@
   
 # 👋 Hi, I'm Rahuram
 
-### Full-Stack Developer | Passionate about Building Modern Web Applications
+### Full-Stack Developer | 2+ Years Experience | Passionate about Building Modern Web Applications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rahuram.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahuram-mb/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahuram.mb@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram-rogers)
+<a href="https://rahuram.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/rahuram-mb/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:rahuram.mb@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/ram-rogers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
@@ -15,8 +15,9 @@
 
 ## 🚀 About Me
 
-I'm a dedicated **Full-Stack Developer** with a passion for creating dynamic, responsive, and efficient web applications. I excel in both frontend and backend development, ensuring seamless user experiences. I'm always keen to learn new technologies and take on challenging projects.
+I'm a dedicated **Full-Stack Developer** with **2+ years of experience** in creating dynamic, responsive, and efficient web applications. I excel in both frontend and backend development, ensuring seamless user experiences. I'm always keen to learn new technologies and take on challenging projects.
 
+- 💼 **2+ Years** of professional experience in Full-Stack Development
 - 💻 Currently working on building modern web applications
 - 🌱 Always learning new technologies and best practices
 - 👯 Open to collaborating on interesting projects
@@ -55,13 +56,12 @@ I'm a dedicated **Full-Stack Developer** with a passion for creating dynamic, re
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ram-rogers&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ram-rogers&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-rogers&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D)
 
@@ -72,26 +72,19 @@ I'm a dedicated **Full-Stack Developer** with a passion for creating dynamic, re
 ## 🎯 Featured Projects
 
 ### 🌐 Frontend Projects
-- **[Google Notes Taker](https://google-notestaker.netlify.app/)** - A modern note-taking application built with React
-- **[Quiz App](https://take-quizzz.netlify.app)** - Interactive quiz application with React
-- **[Cinegrade](https://cinegrade.netlify.app)** - Movie rating and review platform
-- **[Tesla Clone](https://teslaa-clonee.netlify.app)** - A beautiful clone of Tesla's website
-- **[Weather App](https://65b4d317213eee7ac880d43b--keen-melba-b80c6a.netlify.app)** - Real-time weather information application
+- <a href="https://google-notestaker.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>Google Notes Taker</strong></a> - A modern note-taking application built with React
+- <a href="https://take-quizzz.netlify.app" target="_blank" rel="noopener noreferrer"><strong>Quiz App</strong></a> - Interactive quiz application with React
+- <a href="https://cinegrade.netlify.app" target="_blank" rel="noopener noreferrer"><strong>Cinegrade</strong></a> - Movie rating and review platform
+- <a href="https://teslaa-clonee.netlify.app" target="_blank" rel="noopener noreferrer"><strong>Tesla Clone</strong></a> - A beautiful clone of Tesla's website
+- <a href="https://65b4d317213eee7ac880d43b--keen-melba-b80c6a.netlify.app" target="_blank" rel="noopener noreferrer"><strong>Weather App</strong></a> - Real-time weather information application
 
 ### 🔧 Full-Stack Projects
-- **[Inventory Management System](https://github.com/ram-rogers/Inventory-Management-System)** - Complete inventory management solution with React & Spring Boot
-- **[Blog App (SocioHub)](https://github.com/ram-rogers/sociohub)** - Social blogging platform with React & Spring Boot
-- **[Library Management System](https://github.com/ram-rogers/web-projects/tree/main/libraryManagement_Xampp)** - Library management system using LAMP Stack
+- <a href="https://github.com/ram-rogers/Inventory-Management-System" target="_blank" rel="noopener noreferrer"><strong>Inventory Management System</strong></a> - Complete inventory management solution with React & Spring Boot
+- <a href="https://github.com/ram-rogers/sociohub" target="_blank" rel="noopener noreferrer"><strong>Blog App (SocioHub)</strong></a> - Social blogging platform with React & Spring Boot
+- <a href="https://github.com/ram-rogers/web-projects/tree/main/libraryManagement_Xampp" target="_blank" rel="noopener noreferrer"><strong>Library Management System</strong></a> - Library management system using LAMP Stack
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ram-rogers&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF)
-
-</div>
 
 ---
 
@@ -99,9 +92,9 @@ I'm a dedicated **Full-Stack Developer** with a passion for creating dynamic, re
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-- 📧 **Email:** [rahuram.mb@gmail.com](mailto:rahuram.mb@gmail.com)
-- 💼 **LinkedIn:** [Rahuram MB](https://www.linkedin.com/in/rahuram-mb/)
-- 🐙 **GitHub:** [@ram-rogers](https://github.com/ram-rogers)
+- 📧 **Email:** <a href="mailto:rahuram.mb@gmail.com" target="_blank" rel="noopener noreferrer">rahuram.mb@gmail.com</a>
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/rahuram-mb/" target="_blank" rel="noopener noreferrer">Rahuram MB</a>
+- 🐙 **GitHub:** <a href="https://github.com/ram-rogers" target="_blank" rel="noopener noreferrer">@ram-rogers</a>
 - 📱 **Phone:** +91 9629124694
 
 ---
@@ -110,6 +103,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   
 ### ⚡ Quick Stats
 
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-FF6B9D?style=for-the-badge&logo=code&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=ram-rogers&color=FF6B9D&style=for-the-badge)
 
 **Thanks for visiting my profile!** ⭐
