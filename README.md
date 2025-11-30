@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | 2+ Years Experience | Passionate about Building Modern Web Applications
 
-<a href="https://rahuram.netlify.app/" target="_blank" rel="noopener noreferrer"><img alt="Portfolio"></a>
+<a href="https://rahuram.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/rahuram-mb/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:rahuram.mb@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/ram-rogers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -110,4 +110,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 </div>
-
