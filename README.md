@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Rahuram
 
-### Software Engineer | 2.5+ Years Experience | Full-Stack & Microservices
+### Software Engineer | 3 Years Experience | Full-Stack | Java | React | Spring Boot | Microservices
 
 <a href="https://rahuram.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/rahuram-mb/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,15 +16,18 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer at Cognizant** with **2.5+ years of experience** building and modernizing enterprise web applications. I led the migration of a JSP monolith to a React + Spring Boot microservices architecture — cutting API latency by 35% and deployment time by 45%. I'm passionate about clean architecture, performance engineering, and shipping reliable software.
+I'm a **Software Engineer at Cognizant** with **3 years of experience** designing, building, and modernizing enterprise web applications. I specialize in **Java, Spring Boot, React, and Microservices**, with hands-on experience delivering scalable full-stack solutions, optimizing application performance, and building secure REST APIs.
 
-- 💼 **Software Engineer @ Cognizant Technology Solutions** (Sept 2023 – Present)
-- 🏗️ Led migration of 8+ monolith modules into independently deployable microservices
-- ⚡ Reduced build times by **70%** (CRA → Vite) and query latency by **40%** via indexing & JPA tuning
-- 🔐 Built centralized JWT/RBAC auth framework securing 10+ REST endpoints across 3 prod environments
-- 🏆 Recognized by client stakeholders for resolving 3 high-impact production incidents with zero regressions
-- 🎓 B.Tech in Information Technology — Sona College of Technology (CGPA: 8.5)
-- 💬 Ask me about React, Spring Boot, Microservices, or CI/CD
+Currently, I develop enterprise applications used in production while contributing across backend development, frontend engineering, CI/CD automation, production support, and application modernization.
+
+- 💼 Software Engineer @ Cognizant Technology Solutions (Sept 2023 – Present)
+- 🚀 Migrated a JSP monolith into React + Spring Boot microservices, reducing API latency by **35%**
+- ⚡ Reduced deployment time by **45%** using Jenkins, Docker, and CI/CD improvements
+- 📈 Optimized MySQL queries through indexing and JPA tuning, reducing query latency by **40%**
+- 🔐 Built centralized JWT authentication and RBAC framework securing **10+ REST endpoints**
+- 🎨 Built a reusable React component library and migrated the frontend from CRA to Vite, reducing build time by **70%**
+- 🏆 Recognized by client stakeholders for resolving high-impact production incidents across multiple enterprise releases
+- 🎓 B.Tech Information Technology — Sona College of Technology (CGPA: 8.5)
 
 ---
 
@@ -71,9 +74,6 @@ I'm a **Software Engineer at Cognizant** with **2.5+ years of experience** build
 
 <div align="center">
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-rogers&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D)
 
 ## LeetCode Stats
 
@@ -91,10 +91,9 @@ I'm a **Software Engineer at Cognizant** with **2.5+ years of experience** build
 - Built React + Vite analytics dashboard with per-click IP, timestamp, and User-Agent tracking; containerized via Docker Compose with multi-stage builds
 
 ### ✅ [TaskFlow](https://github.com/ram-rogers/taskflow-Rahuraman_MB) &nbsp;·&nbsp; React (TypeScript) · Spring Boot · PostgreSQL · Flyway · Docker
-- Full-stack task management system with JWT authentication, project management, and a Kanban-style task board
-- Built a layered Spring Boot backend (Controllers → Services → Repositories) with Flyway-managed migrations, RBAC-style ownership checks, and stateless JWT auth via Spring Security
-- Designed a custom glassmorphism CSS design system with React Context for auth state, React Router for protected routes, and optimistic UI updates for task status changes
-- Containerized full stack with Docker Compose — single `docker compose up` spins up PostgreSQL, Spring Boot API, and React frontend with zero manual steps
+- Developed a full-stack Kanban project management platform featuring drag-and-drop boards, task assignment, due dates, activity history, and secure JWT-based authentication with role-based access control.
+- Designed and implemented RESTful APIs using Spring Boot 3.2, Spring Security, Spring Data JPA, and PostgreSQL with project-scoped authorization, Jakarta Validation, lazy loading, and optimized entity relationships.
+- Built a responsive React 18 + TypeScript frontend using Context API and feature-based architecture; containerized the application with Docker Compose for one-command deployment.
 
 ### 📦 [Inventory Management System](https://github.com/ram-rogers/Inventory-Management-System) &nbsp;·&nbsp; React · Spring Boot
 - Full-stack inventory management solution with role-based access control and REST API backend
@@ -127,7 +126,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities.
 
 ### ⚡ Quick Stats
 
-![Experience](https://img.shields.io/badge/Experience-2.5%2B%20Years-FF6B9D?style=for-the-badge&logo=code&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-FF6B9D?style=for-the-badge&logo=code&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=ram-rogers&color=FF6B9D&style=for-the-badge)
 
 **Thanks for visiting my profile!** ⭐
